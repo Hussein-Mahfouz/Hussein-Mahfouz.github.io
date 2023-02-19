@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "husseinmahfouz.github.io"
+  title: "my site"
   navbar:
     background: primary
     left:
