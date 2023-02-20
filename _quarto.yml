@@ -3,19 +3,23 @@ project:
   output-dir: docs
 
 website:
-  title: "my site"
+  title: "Hussein Mahfouz"
   navbar:
     background: primary
-    left:
+    right:
       - href: index.qmd
         text: Home
-      - about.qmd
-
+      - href: CV/CV_Hussein_Mahfouz.pdf
+        text: CV
+      - icon: github
+        href: https://github.com/Hussein-Mahfouz
+      - icon: twitter
+        href: https://twitter.com/h_mahfouz
 format:
   html:
-    theme: cosmo
+    theme: flatly
     css: styles.css
-    toc: true
+    #toc: true
 
 editor: visual
 

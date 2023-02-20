@@ -1,11 +1,25 @@
 ---
-title: "my website"
+#title: "Hussein Mahfouz"
+about:
+  template: jolla
+  image: images/hussein.jpg
+  #image-shape: rounded
+  #image-width: 20em
+  links:
+    - icon: linkedin 
+      text: LinkedIn
+      href: https://www.linkedin.com/in/hussein-mahfouz/
+    - icon: twitter 
+      text: Twitter
+      href: https://twitter.com/h_mahfouz
+    - icon: github 
+      text: GitHub
+      href: https://github.com/Hussein-Mahfouz
+    - icon: envelope 
+      text: Email
+      href: mailto:husseinmahfouz93@gmail.com
 ---
 
-This is a Quarto website.
+I am a PhD student at the [Institute for Transport Studies](https://environment.leeds.ac.uk/transport) at the University of Leeds. My research is on transport and energy demand. Before starting my PhD, I worked as a transport consultant for [Transport for Cairo](https://transportforcairo.com/)
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+---
